@@ -4,7 +4,7 @@ import { Link } from "react-router-dom";
 const Home = () => {
   const [show, setShow] = useState(false);
   return (
-    <div className="bg-gray-100 pb-12 mt overflow-y-hidden h-[80vh]">
+    <div className="bg-gray-100 pb-12 mt mb-36 overflow-y-hidden h-[80vh]">
       {/* Code block starts */}
       <dh-component>
         <nav className="w-full border-b">

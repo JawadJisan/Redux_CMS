@@ -43,7 +43,7 @@ const BlogList = () => {
                 </th>
                 {/*  */}
                 <th class='p-2'>
-                  <div class='font-semibold text-left'>Price</div>
+                  <div class='font-semibold text-left'>Description</div>
                 </th>
                 <th class='p-2'>
                   <div class='font-semibold text-center'>Action</div>
